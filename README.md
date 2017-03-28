@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/bucaramangajs/chat.svg?maxAge=2592000)](./LICENSE)
 
 Aplicación web para experimentar con [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-usado en la presentación [Chrome DevTools](romelperez.com/charlas/chrome-devtools).
+usado en la presentación [Chrome DevTools](http://romelperez.com/charlas/chrome-devtools).
 
 ![Screenshot](./screenshot.png)
 
