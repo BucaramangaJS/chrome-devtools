@@ -1,0 +1,13 @@
+{
+  "name": "chrome-devtools-example",
+  "version": "1.0.0",
+  "description": "Charla de sobrevista a las herramientas de desarrollo y debug DevTools del navegador Google Chrome para programadores y diseñadores de la Internet. Inspecciona el DOM, trackea errores, revisa recursos y mucho más",
+  "author": "Romel Pérez (romelperez.com)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
